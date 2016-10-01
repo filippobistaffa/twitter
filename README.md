@@ -1,5 +1,10 @@
 Twitter dataset
 ===================
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/filippobistaffa/twitter/master/logo.png" alt="logo" width="500">
+</p>
+
 This repository contains the necessary files to work with the [Twitter dataset](http://law.di.unimi.it/webdata/twitter-2010/). Due to its large file size, the actual dataset is not hosted on this repository. The `twitter-2010.graph` can be downloaded [here](http://data.law.di.unimi.it/webdata/twitter-2010/twitter-2010.graph), and should be placed inside the [`net`](https://github.com/filippobistaffa/twitter/tree/master/net) subdirectory.
 
 Acknowledgements
